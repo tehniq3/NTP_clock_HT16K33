@@ -1,2 +1,4 @@
 # NTP_clock_HT16K33
-used library: http://werner.rothschopf.net/
+used library: https://werner.rothschopf.net/201909_arduino_ht16k33.htm
+
+
