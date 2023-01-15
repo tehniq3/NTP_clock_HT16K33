@@ -1,4 +1,11 @@
 # NTP_clock_HT16K33
 used library: https://werner.rothschopf.net/201909_arduino_ht16k33.htm
 
+article: https://nicuflorica.blogspot.com/2023/01/ceas-ntp-pe-afisaj-led-din-4-caractere.html
+
+![schematic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr_YnHnno8pCx-pcHoUiS-cVsLEkjbbGgnNZ7J5fZ2UlhMpTY6VFXQ2RzO3nWbASA3qgY6GxkUPs-ycOJtYxHUZmmqVvaarbtMA9Y3RF7uXT0FTADsg5VjkdznbghFyj29m6IAw1edqebZtrvPVw4PiLZYBfjAE0Zsl8ahGjIjFj3obR59C5MM_nyRJw/s320/NTP_clock_DST_HT16K33_14segm_sch1.png)
+
+![1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIZYzrJw9G1AQoJMUWfjGJQUKLeWaGA0WW3rrwBSsIgAWe1vNVeCMTtO5CdmVk85C3FDBFrXyRjC5dRHSWNpQvkm_-AS0vnw5b2NBi8UIZrkL3trpf2Cz7Q38BBCqOgx0r1P31CyZfk6Td6_emmnE2J8_6PU7K_ojQQucggqGZ7cAcvIGZoppXhjjEw/w200-h150/ora_vara.jpg)
+![2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVhEqN4xZOrlgH6q24BSpKRi0_yDcUEU8QnkPmfzJmUbneT7kSMRwbALoPxB1ON-NzuazvWrJ82G_iJ6AIfgBR1_ISfyHZ9B3ALmSIQzbUJ1rzF7J61jigVDFr0dUkM2A8Zp9RFnK-NJgyKQ3UIFwBGE3ed4TlxJjPDep0081VvC_PSjiP-ThqgKGeBg/w200-h150/ora_iarna.jpg)
+
 
