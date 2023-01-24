@@ -5,6 +5,7 @@ articles:
 - NTP clock: https://nicuflorica.blogspot.com/2023/01/ceas-ntp-pe-afisaj-led-din-4-caractere.html
 - DHT22 thermometer/hygrometer: https://nicuflorica.blogspot.com/2023/01/termometruhigrometru-cu-dht2211-pe.html
 - NTP clock with DHT22 thermometer/hygrometer: https://nicuflorica.blogspot.com/2023/01/ceas-ntp-si-termometruhigrometru-senzor.html
+- animated NTP clock with DHT22 thermometer/hygrometer: https://nicuflorica.blogspot.com/2023/01/ceas-animat-ntp-si-termometruhigrometru.html
 
 ![schematic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr_YnHnno8pCx-pcHoUiS-cVsLEkjbbGgnNZ7J5fZ2UlhMpTY6VFXQ2RzO3nWbASA3qgY6GxkUPs-ycOJtYxHUZmmqVvaarbtMA9Y3RF7uXT0FTADsg5VjkdznbghFyj29m6IAw1edqebZtrvPVw4PiLZYBfjAE0Zsl8ahGjIjFj3obR59C5MM_nyRJw/s320/NTP_clock_DST_HT16K33_14segm_sch1.png)
 ![real](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi55dWEpozl0mAVSMEoM1RcOlEuth0UpCrFJWsT3hr2Q5NrEf5zs2mOAOGNh9U1QH_cRGHzLaZCwRhMVU1H1A9lA60xj4uJS8bEcY-WyDqY5WAx676dyzqOi9UH69LxAo_j_hpGUn0vh0OPXsM3lB05ov2ZwYEckIeQYlyBWkGzlQCwdaY4C_x3G-bfWQ/w200-h150/montaj_test_1.jpg)
